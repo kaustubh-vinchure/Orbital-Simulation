@@ -1,0 +1,6 @@
+
+r = a (1 - ecos(E))
+r/a = 1 - ecos(E)
+ecos(E) = 1 - r/a
+cos(E) = (1 - r/a)/e
+E = arcos((1 - r/a)/a)
